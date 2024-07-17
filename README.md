@@ -14,11 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=JoYoneyama&show=prs_merged&theme=bear" />
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=JoYoneyama&show=prs_merged&theme=bear" target="_blank"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoYoneyama&layout=compact&theme=bear&langs_count=8&card_width=320" />
 </a>
+
+##
+
+<h3>Contato:</h3>
+<div>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</div>
