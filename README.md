@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ##
 
 <h3>Contato:</h3>
-  <div> <img width="7%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <p> <strong>jvsyoneyama@gmail.com</strong> </p> </div>
+  <div> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <p> <strong>jvsyoneyama@gmail.com</strong> </p> </div>
   <div> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <p> <strong>jolas0</strong> </p> </div>
 
