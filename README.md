@@ -1,4 +1,4 @@
-<img width="70%" src="./images/img.png" />
+<p align="center"> <img width="70%" src="./images/img.png" /> </p>
 
 <!--
 **JoYoneyama/JoYoneyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
