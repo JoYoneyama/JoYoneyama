@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://joyoneyama.github.io" target="_blank"><img width="70%" src="./images/img.png" /></a> </p>
+<p align="center"> <a href="https://joyoneyama.github.io" target="_blank"><img width="70%" src="./images/Oi__meu_nome_é_João-removebg-preview.png" /></a> </p>
 
 <!--
 **JoYoneyama/JoYoneyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
