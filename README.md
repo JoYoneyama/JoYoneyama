@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
@@ -34,5 +35,5 @@ Here are some ideas to get you started:
 
 <h3>Contato:</h3>
   <div> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <p> <strong>jvsyoneyama@gmail.com</strong> </p> </div>
-  <div> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <p> <strong>jolas0</strong> </p> </div>
+  <div> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <p> <strong>João Yoneyama</strong> </p> </div>
 
